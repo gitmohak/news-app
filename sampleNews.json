@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": null,
+            "title": "3 observations after Sixers start playoffs strong, beat Nets in Game 1 - NBC Sports Philadelphia",
+            "description": "James Harden and the Sixers started the playoffs strong on Saturday, earning a 121-101 win over the Nets at Wells Fargo Center. By Noah Levick",
+            "url": "https://www.nbcsports.com/philadelphia/sixers/sixers-vs-nets-game-1-james-harden-joel-embiid-mikal-bridges-nba-playoffs",
+            "urlToImage": "https://www.nbcsports.com/sites/rsnunited/files/styles/metatags_opengraph/public/article/hero/James-Harden-Flex-USATSI.jpg",
+            "publishedAt": "2023-04-15T19:39:08Z",
+            "content": "The Sixers started smoothly on Saturday afternoon in the opening game of the NBA playoffs.\r\nLed by James Harden (23 points, 13 assists) and Joel Embiid (26 points), the team took a 1-0 lead over the … [+5978 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Corinne Heller",
+            "title": "Camila Cabello and Ex Shawn Mendes Spotted Kissing During Coachella Reunion - E! NEWS",
+            "description": "Camila Cabello and Shawn Mendes proved they're more than friendly exes when they were photographed locking lips at the 2023 Coachella Valley Music and Arts Festival.",
+            "url": "https://www.eonline.com/news/1371501/camila-cabello-and-ex-shawn-mendes-spotted-kissing-during-coachella-reunion",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023315/1200-syd.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-04-15T19:27:00Z",
+            "content": "More than friendly exes!\r\nHave Camila Cabello and former boyfriend Shawn Mendes rekindled their romance in the desert? The \"Señorita\" singers reunited on day one of Coachella 2023 in Southern Califor… [+678 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Paul LeBlanc",
+            "title": "Georgia Gov. Brian Kemp urges Republicans to move on from election fraud claims: '2020 is ancient history' - CNN",
+            "description": "Georgia Gov. Brian Kemp on Saturday urged his fellow Republicans to move on from the 2020 presidential election, offering a thinly veiled dig at former President Donald Trump and his continued election grievances.",
+            "url": "https://www.cnn.com/2023/04/15/politics/brian-kemp-donald-trump-republicans-2024/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230415111825-brian-kemp-2022-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-15T18:39:00Z",
+            "content": "Georgia Gov. Brian Kemp on Saturday urged his fellow Republicans to move on from the 2020 presidential election, offering a thinly veiled dig at former President Donald Trump and his continued electi… [+2727 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Poland suspends food imports from Ukraine to assist its farmers - Al Jazeera English",
+            "description": "Poland’s governing party leader Jarosław Kaczyński says the list of banned items would include grain and honey.",
+            "url": "https://www.aljazeera.com/news/2023/4/15/poland-suspends-food-imports-from-ukraine-to-assist-its-farmers",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/04/AP23102451442653.jpg?resize=1200%2C675",
+            "publishedAt": "2023-04-15T18:22:57Z",
+            "content": "Polands government said it will temporarily prohibit grain and other food imports from Ukraine as it seeks to address the rising anger of Polish farmers, who say they are losing huge amounts of money… [+3490 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bleeding Green Nation"
+            },
+            "author": "Alexis Chassen",
+            "title": "Should the Eagles trade for Budda Baker? - Bleeding Green Nation",
+            "description": "The safety would be a dynamic addition to Philly’s secondary, that’s for sure.",
+            "url": "https://www.bleedinggreennation.com/2023/4/15/23684118/should-the-eagles-trade-for-budda-baker",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/pgbVcYQzYtoqOE3YYRiInrXJviQ=/0x0:5007x2621/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24587632/1463243526.jpg",
+            "publishedAt": "2023-04-15T18:02:20Z",
+            "content": "New Cardinals head coach Jonathan Gannon already has his hands full in Arizona, and things got even more interesting just weeks ahead of the NFL Draft, with safety Budda Baker requesting a trade.\r\nIt… [+3047 chars]"
+        }
+    ]
+}
