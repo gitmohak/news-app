@@ -6,7 +6,7 @@ export default class NewsItem extends Component {
 
     return (
       <div className="card mt-5">
-        <span class={`position-absolute top-0 translate-middle badge rounded-pill bg-${catColor}`} style={{left:"86%", zIndex: "1"}}>
+        <span className={`d-flex justify-content-end position-absolute end-0 badge rounded-pill bg-${catColor}`}>
           {source}
         </span>
 
